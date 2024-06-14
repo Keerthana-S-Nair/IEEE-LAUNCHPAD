@@ -1,4 +1,3 @@
-# IEEE LAUNCHPAD
 
 # Keerthana S Nair 
 
