@@ -17,7 +17,7 @@
 | Name                | Description                                                               | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | **Autocheck AI**    | Collaboratively developed a user-friendly web platform for capturing and evaluating handwritten answers. Implemented real-time answer capture and comparison with answer keys, enhancing the assessment process for educators and students.  |[Repo Link 1](https://github.com/leyanarath/Autocheck_AI) |
-| **Data Analytics**  | This Python-based data analytics project explores student intern data to reveal actionable insights for stakeholders, enhancing decision-making processes. |[Repo Link 2](https://github.com/Keerthana-S-Nair/Data_Analytics) |
+| **Visualnsight**  | This Python-based data analytics project explores student intern data to reveal actionable insights for stakeholders, enhancing decision-making processes. |[Repo Link 2](https://github.com/Keerthana-S-Nair/Data_Analytics) |
 
 #### Leadership and Influence:
 
